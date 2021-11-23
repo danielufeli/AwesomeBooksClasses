@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple example steps:
 
 👤 **Daniel Ufeli**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@danielufeli](https://github.com/danielufeli)
 
 ## 🤝 Contributing
 
